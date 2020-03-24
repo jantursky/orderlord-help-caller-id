@@ -1,0 +1,19 @@
+---
+layout: default
+title: Changelog
+nav_order: 10
+has_children: true
+has_toc: false
+permalink: /changelog
+---
+
+# Changelog
+{: .no_toc }
+
+---
+
+## Table of contents
+- [Latest release]({{site.baseurl}}{% link docs/changelog/latest-release.md %})
+- [List of changes]({{site.baseurl}}{% link docs/changelog/list-of-changes.md %})
+
+{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
