@@ -1,7 +1,7 @@
 ---
 layout: default
 title: List of Settings
-nav_order: 8
+nav_order: 7
 has_children: true
 has_toc: false
 permalink: /list-of-settings
@@ -10,12 +10,12 @@ permalink: /list-of-settings
 # List of Settings
 {: .no_toc }
 
-LIST OF SETTINGS
-- [Application Language]({{site.baseurl}}{% link docs/list-of-settings/application-language.md %})
-- [Map Service]({{site.baseurl}}{% link docs/list-of-settings/map-service.md %})
-- [Preferred Navigation]({{site.baseurl}}{% link docs/list-of-settings/preferred-navigation.md %})
-- [Notification Sound]({{site.baseurl}}{% link docs/list-of-settings/notification-sound.md %})
+LIST OF SECTIONS
+- [General section]({{site.baseurl}}{% link docs/list-of-settings/general-section/general-section.md %})
+- [Switch between applications section]({{site.baseurl}}{% link docs/list-of-settings/switch-between-applications-section/switch-between-applications-section.md %})
+- [Number formatting]({{site.baseurl}}{% link docs/list-of-settings/number-formatting-section/number-formatting.md %})
+- [Date/time section]({{site.baseurl}}{% link docs/list-of-settings/date-time-section/date-time-section.md %})
 
-{% include img_smartphone.html name="list_of_settings_preview_1.png" %}
+{% include img.html name="menu_settings.png" %}
 
-{% include img_smartphone.html name="list_of_settings_preview_2.png" %}
+{% include img.html name="menu_settings_list.png" %}

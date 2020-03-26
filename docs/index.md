@@ -10,11 +10,8 @@ permalink: /
 
 ## Table of contents
 - [Getting Started](getting-started)
-- [History section](history-section)
+- [Phone calls section](phone-calls-section)
 - [Timeline section](timeline-section)
-- [Tracker section](tracker-section)
-- [Overview section](overview-section)
-- [Team section](team-section)
 - [List of Settings](list-of-settings)
 - [Frequently asked questions (FAQ)](frequently-asked-questions-faq)
 - [Changelog](changelog)
