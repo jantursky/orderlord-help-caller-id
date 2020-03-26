@@ -15,5 +15,3 @@ permalink: /changelog
 ## Table of contents
 - [Latest release]({{site.baseurl}}{% link docs/changelog/latest-release.md %})
 - [List of changes]({{site.baseurl}}{% link docs/changelog/list-of-changes.md %})
-
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}

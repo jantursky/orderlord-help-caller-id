@@ -16,19 +16,10 @@ permalink: /frequently-asked-questions-faq/what-is-the-dual-sim
 ---
 
 ## What is the Disturb mode
-{% include icon.html name="do_not_disturb" %} **Do Not Disturb** allows you to limit or completely silence notifications and alerts on your device. It’s more powerful than simply putting your phone on **silent mode**. Here are a few examples of where Do Not Disturb can come in handy:
+Some mobile phones support use of {% include icon.html name="sim_card" %} {% include icon.html name="sim_card" %} two SIM cards, described as dual SIM operation. When a second SIM card is installed, the phone either allows users to switch between two separate mobile network services manually, has hardware support for keeping both connections in a "standby" state for automatic switching, or has individual transceivers for maintaining both network connections at once.
 
-- automatically mute notifications every night while you sleep
-- mute all interruptions until your alarm goes off
-- automatically mute sounds while you’re in a meeting
-- mute all interruptions except your favorite people
-- you can see how **Do Not Disturb** can be very useful in your everyday life. Notifications can be a huge distraction. **Do Not Disturb** manages notifications with three different levels of silence:
-
-1. **Total silence** – completely mutes your phone. Nothing will get through. Not even alarms.
-1. **Alarms only** – as the name implies, this is like Total Silence except alarms still work.
-1. **Priority only** – mutes everything except alarms, people, reminders, and events that you choose.
-
-## How to TURN OFF Disturb mode
+## How to handle DUAL Sim case
+Most of the Android vendors have adjusted the logic of receiving the incoming call's information. If the user has two slots for the SIM cards, this issues could occurred. We investigated, that if the user has the SIM for receiving the calls set as SECONDARY in his **"SIM cards & mobile networks"** section, the application could have a issue with determining the received call and will obtain _empty text_ (the phone number information). For this cases, the user needs to set up this SIM card as **PRIMARY**. Also he needs to accept the permissions during starting the app, which are enabling receiving this incoming phone call's information.
 
 - Navigate to the {% include icon.html name="settings" %} settings section. 
 - If the highlighted red row is displaying {% include icon.html name="do_not_disturb_on" %} **"Do Not Disturb" mode**, click on this row. If this row is not displaying, enable the sound notification. If this setting is enabled, Check to see if this row appears after the sound notifications are enabled. If not, then that means, that this application already granted access to handle **"Do Not Disturb" mode**.

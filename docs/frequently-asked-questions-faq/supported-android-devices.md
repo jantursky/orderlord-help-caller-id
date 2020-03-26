@@ -19,7 +19,7 @@ permalink: /frequently-asked-questions-faq/supported-android-devices
 - **1 GB RAM and higher**
 - **1.5GHz CPU and higher**
 - the application is from Google Play limited only for the specific countries, but you could download it also directly from the [ApkPure.com link]({{site.baseurl}}{% link docs/getting-started/how-to-install-the-application.md %})
-- {% include icon.html name="call" %} **Telephony module** - if the courier wants to call the customer to contact him
+- {% include icon.html name="call" %} **Telephony module** - if the user wants to call the customer to contact him
 
 ---
 

@@ -17,7 +17,7 @@ permalink: /troubleshooting/network-issues
 ---
 
 ## "No internet connection!" warning
-Once the connection is disconnected, <span class="text-red-200"> the red color with warning message **No internet connection!** is displayed.</span> Try to {% include icon.html name="network_wifi" %} turn ON the Wi-Fi (or turn OFF and then ON), or check if you have running {% include icon.html name="network_cell" %} Mobile network, or if you have a enough {% include icon.html name="signal_cellular_null" %} signal strength.
+Once the connection is disconnected, <span class="text-red-200"> **the red blinking circle color indicator** is displayed.</span> Try to {% include icon.html name="network_wifi" %} turn ON the Wi-Fi (or turn OFF and then ON), or check if you have running {% include icon.html name="network_cell" %} Mobile network, or if you have a enough {% include icon.html name="signal_cellular_null" %} signal strength.
 
 ## Unable to connect to the network
 If you aren't able to connect to the network, follow these steps:

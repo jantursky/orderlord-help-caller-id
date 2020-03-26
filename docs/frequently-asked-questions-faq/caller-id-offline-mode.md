@@ -19,9 +19,9 @@ When the internet is turned off, the device is not able to connect to the networ
 
 | FUNCTIONALITY									| <span class="text-green-100">ENABLED</span>  | <span class="text-red-100">DISABLED</span> |
 |:------------------------------------------------------|:------|:------|
-| receiving incoming calls							| <span class="text-red-100">{% include icon.html name="check" %}</span> |  |
+| receiving incoming calls							| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 | send received call to POS/DMS								|  | <span class="text-red-100">{% include icon.html name="close" %}</span> |
-| use phone calls section								| <span class="text-red-100">{% include icon.html name="check" %}</span> |  |
+| use phone calls section								| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 | use timeline section								| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 
 {% include img_smartphone.html name="faq_driver_offline_mode_1.png" %}

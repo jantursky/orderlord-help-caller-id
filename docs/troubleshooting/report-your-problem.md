@@ -32,11 +32,11 @@ Once the problem of any type will occur, and the user isn't able to solve the pr
 
 {% include img_smartphone.html name="troubleshooting_report_your_problem_3.png" %}
 
-- Add the description of the problem. Try to be more specific and mention also _an identifier_ of the specific data (like _Order number 006 is missing_). You could also add the contact email, where our support team will contact you as soon as possible. You could also add attachments for a better description of the problem. You could take screenshots in multiple ways:
+- Add the description of the problem. Try to be more specific and mention also _an identifier_ of the specific data (like _Not receiving any calls_). You could also add the contact email, where our support team will contact you as soon as possible. You could also add attachments for a better description of the problem. You could take screenshots in multiple ways:
 	- pressing two buttons on your Android device; normally the volume down and power button. 
-	- on other devices, you might need to use the home button + power button combo.
+	- on other devices, you might need to use the **home button + power button** combination.
 	- either way, press the two buttons simultaneously and hold for a second.
-When the right button combo is pressed, your device’s screen will flash, usually accompanied by a camera shutter sound. Sometimes, a pop-up message or notification alert appears, suggesting that the screenshot has been made. Once the screenshot was taken, you could add it to the report of the problem.
+When the right button combinations is pressed, your device’s screen will flash, usually accompanied by a camera shutter sound. Sometimes, a pop-up message or notification alert appears, suggesting that the screenshot has been made. Once the screenshot was taken, you could add it to the report of the problem.
 
 {% include img_smartphone.html name="troubleshooting_report_your_problem_4.png" %}
 

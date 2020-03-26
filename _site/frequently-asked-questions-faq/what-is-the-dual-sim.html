@@ -112,27 +112,13 @@
 <h1 class="no_toc" id="what-is-the-dual-sim"> <a href="#what-is-the-dual-sim" class="anchor-heading"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> What is the Dual SIM?</h1>
 <ol id="markdown-toc">
 <li><a href="#what-is-the-disturb-mode" id="markdown-toc-what-is-the-disturb-mode">What is the Disturb mode</a></li>
-<li><a href="#how-to-turn-off-disturb-mode" id="markdown-toc-how-to-turn-off-disturb-mode">How to TURN OFF Disturb mode</a></li>
+<li><a href="#how-to-handle-dual-sim-case" id="markdown-toc-how-to-handle-dual-sim-case">How to handle DUAL Sim case</a></li>
 </ol>
 <hr>
 <h2 id="what-is-the-disturb-mode"> <a href="#what-is-the-disturb-mode" class="anchor-heading"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> What is the Disturb mode</h2>
-<p><i class="material-icons">do_not_disturb</i> <strong>Do Not Disturb</strong> allows you to limit or completely silence notifications and alerts on your device. It’s more powerful than simply putting your phone on <strong>silent mode</strong>. Here are a few examples of where Do Not Disturb can come in handy:</p>
-<ul>
-<li>automatically mute notifications every night while you sleep</li>
-<li>mute all interruptions until your alarm goes off</li>
-<li>automatically mute sounds while you’re in a meeting</li>
-<li>mute all interruptions except your favorite people</li>
-<li>you can see how <strong>Do Not Disturb</strong> can be very useful in your everyday life. Notifications can be a huge distraction. <strong>Do Not Disturb</strong> manages notifications with three different levels of silence:</li>
-</ul>
-<ol>
-<li>
-<strong>Total silence</strong> – completely mutes your phone. Nothing will get through. Not even alarms.</li>
-<li>
-<strong>Alarms only</strong> – as the name implies, this is like Total Silence except alarms still work.</li>
-<li>
-<strong>Priority only</strong> – mutes everything except alarms, people, reminders, and events that you choose.</li>
-</ol>
-<h2 id="how-to-turn-off-disturb-mode"> <a href="#how-to-turn-off-disturb-mode" class="anchor-heading"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> How to TURN OFF Disturb mode</h2>
+<p>Some mobile phones support use of <i class="material-icons">sim_card</i> <i class="material-icons">sim_card</i> two SIM cards, described as dual SIM operation. When a second SIM card is installed, the phone either allows users to switch between two separate mobile network services manually, has hardware support for keeping both connections in a “standby” state for automatic switching, or has individual transceivers for maintaining both network connections at once.</p>
+<h2 id="how-to-handle-dual-sim-case"> <a href="#how-to-handle-dual-sim-case" class="anchor-heading"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> How to handle DUAL Sim case</h2>
+<p>Most of the Android vendors have adjusted the logic of receiving the incoming call’s information. If the user has two slots for the SIM cards, this issues could occurred. We investigated, that if the user has the SIM for receiving the calls set as SECONDARY in his <strong>“SIM cards &amp; mobile networks”</strong> section, the application could have a issue with determining the received call and will obtain <em>empty text</em> (the phone number information). For this cases, the user needs to set up this SIM card as <strong>PRIMARY</strong>. Also he needs to accept the permissions during starting the app, which are enabling receiving this incoming phone call’s information.</p>
 <ul>
 <li>Navigate to the <i class="material-icons">settings</i> settings section.</li>
 <li>If the highlighted red row is displaying <i class="material-icons">do_not_disturb_on</i> <strong>“Do Not Disturb” mode</strong>, click on this row. If this row is not displaying, enable the sound notification. If this setting is enabled, Check to see if this row appears after the sound notifications are enabled. If not, then that means, that this application already granted access to handle <strong>“Do Not Disturb” mode</strong>.</li>
