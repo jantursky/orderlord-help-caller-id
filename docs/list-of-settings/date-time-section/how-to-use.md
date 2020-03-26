@@ -17,7 +17,7 @@ permalink: /list-of-settings/date-time-section/how-to-use
 ---
 
 ## Description
-The user could applied specificed date/time/date+time format for every time information in the application and on the printer receipt/kitchen receipt/label.
+The user could applied specificed date/time/date+time format for every time information in the application.
 
 ## Where to find the option
 - Open the menu from the left side and find {% include icon.html name="settings" %} [**Settings**]({{site.baseurl}}{% link docs/list-of-settings/list-of-settings.md %}) section

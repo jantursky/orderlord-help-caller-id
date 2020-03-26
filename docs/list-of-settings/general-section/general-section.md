@@ -21,8 +21,7 @@ permalink: /list-of-settings/general-section
 - [Screen orientation]({{site.baseurl}}{% link docs/list-of-settings/general-section/screen-orientation.md %})
 - [Keep the screen on]({{site.baseurl}}{% link docs/list-of-settings/general-section/keep-the-screen-on.md %})
 - [Text size]({{site.baseurl}}{% link docs/list-of-settings/general-section/text-size.md %})
-- [Display Lock screen button]({{site.baseurl}}{% link docs/list-of-settings/general-section/display-lock-screen-button.md %})
-- [Sound/Info notifications]({{site.baseurl}}{% link docs/list-of-settings/general-section/sound-info-notifications.md %})
+
 
 ## Where to find the category
 - Open the menu from the left side and find {% include icon.html name="settings" %} [**Settings**]({{site.baseurl}}{% link docs/list-of-settings/list-of-settings.md %}) section

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What is the Battery Optimization?
-nav_order: 7
+nav_order: 5
 has_toc: false
 parent: Frequently asked questions (FAQ)
 permalink: /frequently-asked-questions-faq/what-is-the-battery-optimization

@@ -32,7 +32,7 @@ permalink: /getting-started/how-to-login
 
 {% include img_smartphone.html name="getting_started_how_to_login_13.png" %}
 
-- The application will try to check that the credentials are valid and sign in. The user is then moved to the [**main application page**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-driver-application.md %}).
+- The application will try to check that the credentials are valid and sign in. The user is then moved to the [**main application page**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-caller-id-application.md %}).
 
 {% include img_smartphone.html name="getting_started_how_to_login_14.png" %}
 

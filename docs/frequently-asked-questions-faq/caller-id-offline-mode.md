@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Caller ID offline mode
-nav_order: 5
+nav_order: 3
 has_toc: false
 parent: Frequently asked questions (FAQ)
 permalink: /frequently-asked-questions-faq/caller-id-offline-mode
@@ -19,16 +19,9 @@ When the internet is turned off, the device is not able to connect to the networ
 
 | FUNCTIONALITY									| <span class="text-green-100">ENABLED</span>  | <span class="text-red-100">DISABLED</span> |
 |:------------------------------------------------------|:------|:------|
-| update the data									|  | <span class="text-red-100">{% include icon.html name="close" %}</span> |
-| decline the delivery								|  | <span class="text-red-100">{% include icon.html name="close" %}</span> |
-| accept the delivery								|  | <span class="text-red-100">{% include icon.html name="close" %}</span> |
-| start the delivery								| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
-| skip the order									| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
-| close the order									| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
-| call the customer									| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
-| arrive to the customer							| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
-| finish the order for the customer					| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
-| add tips											| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
-| add signature										| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
+| receiving incoming calls							| <span class="text-red-100">{% include icon.html name="check" %}</span> |  |
+| send received call to POS/DMS								|  | <span class="text-red-100">{% include icon.html name="close" %}</span> |
+| use phone calls section								| <span class="text-red-100">{% include icon.html name="check" %}</span> |  |
+| use timeline section								| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 
 {% include img_smartphone.html name="faq_driver_offline_mode_1.png" %}

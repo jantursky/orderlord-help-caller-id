@@ -29,6 +29,7 @@ The application will restart automatically when you change the language. If the 
 - {% include img_single_not_clickable.html name="flags/flag_it.png" %} **Italiano - Italian (it)**
 - {% include img_single_not_clickable.html name="flags/flag_sk.png" %} **Slovenčina - Slovak (sk)**
 - {% include img_single_not_clickable.html name="flags/flag_bg.png" %} **български - Bulgarian (bg)**
+- {% include img_single_not_clickable.html name="flags/flag_pt.png" %} **Português - Portuguese (pt)**
 - {% include img_single_not_clickable.html name="flags/flag_hr.png" %} **Hrvatski - Croatian (hr)**
 - {% include img_single_not_clickable.html name="flags/flag_ua.png" %} **Український - Ukrainian (uk)**
 - {% include img_single_not_clickable.html name="flags/flag_ru.png" %} **Русский - Russian (ru)**
