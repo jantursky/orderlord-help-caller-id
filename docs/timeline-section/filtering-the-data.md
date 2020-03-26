@@ -18,7 +18,7 @@ permalink: /timeline-section/filtering-the-data
 
 ## How to filter
 For faster finding a specific event, the user can filter the data in multiple ways:
-1. Typing the searched phrase in the input line. The results are dynamically filtered during typing. For instance, in this case, the text **"570"** was typed and found in the two results, in the **additional info** line (highlighted with <span class="text-green-200">**green color**</span> and underlined).
+1. Typing the searched phrase in the input line. The results are dynamically filtered during typing. For instance, in this case, the text **"3444"** was typed and found in four results, in the **additional info** line (highlighted with <span class="text-green-200">**green color**</span> and underlined).
 2. Click on the filter icon {% include icon.html name="filter_list" %} on the right side will display the list of available events, for which the results will be filtered. Selected event type will be displayed in the header of the input line, filtering activated by green color on the icon <span class="text-green-200">{% include icon.html name="filter_list" %}</span> and data will be filtered. If the user wants to display all events regardless of type, he needs to display Filter type dialog by this icon {% include icon.html name="filter_list" %} and click on the button **TURN OFF FILTERING**.
 
 {% include img_smartphone.html name="timeline_section_filtering_the_data_1.png" %}

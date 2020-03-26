@@ -29,11 +29,11 @@ permalink: /getting-started/how-to-install-the-application
 
 {% include img_smartphone.html name="getting_started_how_to_install_the_application_2.png" %}
 
-- Type the phrase **"Orderlord Driver"**. Click on the search icon {% include icon.html name="search" %} on the right side or Search button on the device keyboard.
+- Type the phrase **"Orderlord Caller ID"**. Click on the search icon {% include icon.html name="search" %} on the right side or Search button on the device keyboard.
 
 {% include img_smartphone.html name="getting_started_how_to_install_the_application_3.png" %}
 
-- Select the application **"Orderlord Driver"** (should be first in the result's list, results may vary).
+- Select the application **"Orderlord Caller ID"** (should be first in the result's list, results may vary).
 
 {% include img_smartphone.html name="getting_started_how_to_install_the_application_4.png" %}
 
@@ -41,6 +41,6 @@ permalink: /getting-started/how-to-install-the-application
 
 {% include img_smartphone.html name="getting_started_how_to_install_the_application_5.png" %}
 
-- Once the application was successfully installed, the icon should be automatically added on the home screen. If not, go to the menu of all applications, find the application **"Orderlord Driver"**, long-press the icon and drag it to a Home screen page.
+- Once the application was successfully installed, the icon should be automatically added on the home screen. If not, go to the menu of all applications, find the application **"Orderlord Caller ID"**, long-press the icon and drag it to a Home screen page.
 
 {% include img_smartphone.html name="getting_started_how_to_install_the_application_6.png" %}

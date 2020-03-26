@@ -16,12 +16,14 @@ permalink: /phone-calls-section
 ---
 
 ## Description
-The preview of all finished deliveries with orders will be summarized in the section. The user can filter these overview for the specific date.
+The preview of past incoming phone calls, that the application receives once the user is logged in. The user can call specific phone number.
+
+<span class="text-red-200">The application hasn't permission and options to receive contact details of the received call (no name, surname, social information, etc.) and also **isn't** sending any contact details except the phone number information to the POS/DMS applications.</span>
 
 <span class="text-red-200">It could happen, that the user isn't able to access this section. It's because the section is disabled for the courier to be visible. In such a case, you need to ask the administrator of the account (_you need to ask for access_).</span>
 
 ## Table of contents
-- [How to use]({{site.baseurl}}{% link docs/timeline-section/how-to-use.md %})
+- [How to use]({{site.baseurl}}{% link docs/phone-calls-section/how-to-use.md %})
 
 {% include img_smartphone.html name="overview_section_preview_1.png" %}
 

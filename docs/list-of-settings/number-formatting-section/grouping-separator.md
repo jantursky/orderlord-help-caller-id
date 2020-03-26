@@ -31,4 +31,5 @@ Determine, what separator should be between every triple of numbers (e.g. 1 248 
 1. **Underscore _** - the format is **"1_248"**
 
 {% include img.html name="settings_number_formatting_section_grouping_separator_1.png" %}
+
 {% include img.html name="settings_number_formatting_section_grouping_separator_2.png" %}
