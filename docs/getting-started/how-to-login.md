@@ -17,7 +17,11 @@ permalink: /getting-started/how-to-login
 ---
 
 ## "Unsupported version" message
-- Open the application **"Orderlord Caller ID"**. The new screen will be displayed. If the warning "Unsupported version" message will appear, that means, that you are using Android 9 verion (Android Pie or above, [see the reason]({{site.baseurl}}{% link docs/troubleshooting/call-issues.md %})). In that case, you need to download the alternative Android version of Caller ID application. The application was adjusted to do most of the work, for you. Follow these steps for updating to the alternative version:
+- Open the application **"Orderlord Caller ID"**. The new screen will be displayed.
+
+<!-- - **During first logging into the application**, the Android system will prompt the dialog to allow access for "GPS position", "Reading/Writing into storage" and "Call the customer". This permissions are explained in [this section]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/application-permissions.md %}). -->
+
+- if the warning "Unsupported version" message will appear, that means, that you are using Android 9 verion (Android Pie or above, [see the reason]({{site.baseurl}}{% link docs/troubleshooting/call-issues.md %})). In that case, you need to download the alternative Android version of Caller ID application. The application was adjusted to do most of the work, for you. Follow these steps for updating to the alternative version:
 - click on the green <span class="text-green-200">**DOWNLOAD**</span> button
 
 {% include img_smartphone.html name="getting_started_how_to_login_1.png" %}
@@ -42,34 +46,21 @@ permalink: /getting-started/how-to-login
 
 {% include img_smartphone.html name="getting_started_how_to_login_6.png" %}
 
-
 ## Basic login
 - Open the application **"Orderlord Caller ID"**. The new screen will be displayed. You could notice, that for the first time, you need to enable some permissions or allow access for some features for proper working of the application:
-	- {% include icon.html name="battery_alert" %} **Battery Optimization** - for better working of background services, like GPS localization and sending/received updates. [You could solve it in this section](#disable-battery-optimization)
-
-
-
-- Type on the first input line **Email** assigned email for the user. The format of the login name should be an email address, like **test@gmail.com** (just as an example). Be aware to not add spaces on the start or end of the input. Type the password for the user. Once you click on the {% include icon.html name="visibility_off" %} eye icon on the right, the password will be displayed (for control purposes). Then click on the <span class="text-orange-200">**SIGN IN**</span> button.
-
-{% include img_smartphone.html name="getting_started_how_to_login_2.png" %}
-
-- **During first logging into the application**, the Android system will prompt the dialog to allow access for "GPS position", "Reading/Writing into storage" and "Call the customer". This permissions are explained in [this section]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/application-permissions.md %}).
-
-{% include img_smartphone.html name="getting_started_how_to_login_3.png" %}
-
-- The application will try to check that the credentials are valid and sign in. The user is then moved to the [**main application page**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-caller-id-application.md %}).
-
-{% include img_smartphone.html name="getting_started_how_to_login_4.png" %}
-
-{% include img_smartphone.html name="getting_started_how_to_login_5.png" %}
-
-{% include img_smartphone.html name="getting_started_how_to_login_6.png" %}
+	- {% include icon.html name="battery_alert" %} **Battery Optimization** - for better working of background services, like GPS localization and sending/received updates. [You could solve it in this section]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/what-is-the-battery-optimization.md %})
 
 {% include img_smartphone.html name="getting_started_how_to_login_7.png" %}
 
+- Type on the first input line **Email** assigned email for the user. The format of the login name should be an email address, like **test@gmail.com** (just as an example). Be aware to not add spaces on the start or end of the input. Type the password for the user. Once you click on the {% include icon.html name="visibility_off" %} eye icon on the right, the password will be displayed (for control purposes). Then click on the <span class="text-orange-200">**SIGN IN**</span> button.
+
 {% include img_smartphone.html name="getting_started_how_to_login_8.png" %}
 
+- the new screen with the authentication with the token will be displayed. The user needs to input the **API password** that was assigned to his user.
+
 {% include img_smartphone.html name="getting_started_how_to_login_9.png" %}
+
+- The application will try to check that the API password is valid and sign in. The user is then moved to the [**main application page**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-caller-id-application.md %}).
 
 {% include img_smartphone.html name="getting_started_how_to_login_10.png" %}
 
@@ -90,11 +81,13 @@ Click on the warning block. The description with the steps, how to solve this op
 
 {% include img_smartphone.html name="getting_started_how_to_login_disable_battery_optimization_5.png" %}
 
-## Allow access for "Do not disturb mode"
-Click on the warning block. The description with the steps will be displayed. Click on the <span class="text-green-200">**ENABLE**</span> button.
+## "Dual SIM" warning message 
+Most of the Android vendors have adjusted the logic of receiving the incoming call's information. If the user has {% include icon.html name="sim_card" %} {% include icon.html name="sim_card" %} two slots for the SIM cards, this issues could occurred. We investigated, that if the user has the SIM for receiving the calls set as SECONDARY in his **"SIM cards & mobile networks"** section, the application could have a issue with determining the received call and will obtain _empty text_ (the phone number information). For this cases, the user needs to set up this SIM card as **PRIMARY**. Also he needs to accept the permissions during starting the app, which are enabling receiving this incoming phone call's information.
+
+- the user could click on the warning message. The list of options should be displayed (or directly display the SIM cards screen, depends on the vendor)
 
 {% include img_smartphone.html name="getting_started_how_to_login_dual_sim_1.png" %}
 
-- New list with the applications will be displayed. Search the application **"Orderlord Caller ID"** (or the name **"Caller ID"**). Switch the state to the right (ENABLE) for this application. Everything done, return to the application.
+- new screen **SIM cards & mobile networks** will be displayed. Try to check how many sim cards are insterted into phone and what SIM card is used for the preferred **Dial setting**. If you are receiving the phone calls from the 2. SIM card, switch this SIM card within the 1. SIM card, to be sure, that the SIM card will be placed in the **primary slot**. Also be sure, that Dial setting is selected for the correct SIM card (or _not set_ if only one SIM card is inserted).
 
 {% include img_smartphone.html name="getting_started_how_to_login_dual_sim_2.png" %}
