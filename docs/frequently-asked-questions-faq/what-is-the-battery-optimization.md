@@ -25,7 +25,7 @@ There are also internal mechanisms in the platform to help conserve battery life
 - **Power management restrictions** - see a list of power restrictions that can be imposed on apps under certain conditions.
 
 ## How to DISABLE Battery optimization
-You have the option to disable this option on the login screen. On the Driver screen is also displaying the warning notification label, which is informing that you should disable the optimization. 
+You have the option to disable this option on the login screen. On the login screen is also displaying the warning notification label, which is informing that you should disable the optimization. 
 
 {% include img_smartphone.html name="faq_what_is_the_battery_optimization_1.png" %}
 
@@ -39,7 +39,7 @@ Click on the warning block. The description with the steps, how to solve this op
 
 {% include img_smartphone.html name="faq_what_is_the_battery_optimization_4.png" %}
 
-- Search the application **"Orderlord Driver"** (or the name **"Driver"**). Click on the row and change the option to **Don't optimize**. Then click on the <span class="text-blue-100">**Done**</span> button. Everything done, return to the application.
+- Search the application **"Orderlord Caller ID"** (or the name **"Caller ID"**). Click on the row and change the option to **Don't optimize**. Then click on the <span class="text-blue-100">**Done**</span> button. Everything done, return to the application.
 
 {% include img_smartphone.html name="faq_what_is_the_battery_optimization_5.png" %}
 
