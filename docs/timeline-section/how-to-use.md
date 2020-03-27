@@ -35,7 +35,3 @@ Here is the description of the screen:
 1. **Additional info of the timeline** - information, which could help determine the item, order or delivery
 
 {% include img_smartphone.html name="timeline_section_how_to_use_1.png" %}
-
-{% include img_smartphone.html name="timeline_section_how_to_use_2.png" %}
-
-{% include img_smartphone.html name="timeline_section_how_to_use_3.png" %}

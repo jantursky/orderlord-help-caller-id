@@ -29,4 +29,4 @@ Here is the description of the screen:
 1. **Date+time of received call**
 1. **Call the phone number icon**
 
-{% include img_smartphone.html name="overview_section_how_to_use_1.png" %}
+{% include img_smartphone.html name="phone_calls_section_how_to_use_1.png" %}

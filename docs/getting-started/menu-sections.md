@@ -33,5 +33,3 @@ To display the menu with all available sections, the user could do that 2. ways:
 {% include img_smartphone.html name="getting_started_menu_sections_1.png" %}
 
 {% include img_smartphone.html name="getting_started_menu_sections_2.png" %}
-
-{% include img_smartphone.html name="getting_started_menu_sections_3.png" %}

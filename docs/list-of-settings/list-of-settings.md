@@ -16,6 +16,6 @@ LIST OF SECTIONS
 - [Number formatting]({{site.baseurl}}{% link docs/list-of-settings/number-formatting-section/number-formatting.md %})
 - [Date/time section]({{site.baseurl}}{% link docs/list-of-settings/date-time-section/date-time-section.md %})
 
-{% include img.html name="menu_settings.png" %}
+{% include img_smartphone.html name="menu_settings.png" %}
 
-{% include img.html name="menu_settings_list.png" %}
+{% include img_smartphone.html name="menu_settings_list.png" %}

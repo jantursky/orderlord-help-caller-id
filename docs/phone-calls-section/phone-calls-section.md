@@ -23,6 +23,6 @@ The preview of past incoming phone calls, that the application receives once the
 ## Table of contents
 - [How to use]({{site.baseurl}}{% link docs/phone-calls-section/how-to-use.md %})
 
-{% include img_smartphone.html name="overview_section_preview_1.png" %}
+{% include img_smartphone.html name="phone_calls_section_preview_1.png" %}
 
-{% include img_smartphone.html name="overview_section_preview_2.png" %}
+{% include img_smartphone.html name="phone_calls_section_preview_2.png" %}

@@ -24,4 +24,4 @@ When the internet is turned off, the device is not able to connect to the networ
 | use phone calls section								| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 | use timeline section								| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 
-{% include img_smartphone.html name="faq_driver_offline_mode_1.png" %}
+{% include img_smartphone.html name="faq_caller_id_offline_mode_1.png" %}
