@@ -27,4 +27,6 @@ permalink: /list-of-settings/switch-between-applications-section
 
 {% include img_smartphone.html name="menu_settings_customization.png" %}
 
+{% include img_smartphone.html name="settings_section_switch_between_applications_preview.png" %}
+
 {% include img_smartphone.html name="settings_section_switch_between_applications.png" %}

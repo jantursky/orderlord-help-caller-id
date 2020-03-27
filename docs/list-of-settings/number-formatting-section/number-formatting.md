@@ -28,4 +28,6 @@ permalink: /list-of-settings/number-formatting-section
 
 {% include img_smartphone.html name="menu_settings_customization.png" %}
 
+{% include img_smartphone.html name="settings_section_number_formatting_preview.png" %}
+
 {% include img_smartphone.html name="settings_section_number_formatting.png" %}

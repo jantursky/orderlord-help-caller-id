@@ -27,4 +27,6 @@ permalink: /list-of-settings/date-time-section
 
 {% include img_smartphone.html name="menu_settings_customization.png" %}
 
+{% include img_smartphone.html name="settings_section_date_time_preview.png" %}
+
 {% include img_smartphone.html name="settings_section_date_time.png" %}

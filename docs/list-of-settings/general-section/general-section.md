@@ -31,6 +31,6 @@ permalink: /list-of-settings/general-section
 
 {% include img_smartphone.html name="menu_settings_customization.png" %}
 
-{% include img_smartphone.html name="settings_section_general.png" %}
+{% include img_smartphone.html name="settings_section_general_preview.png" %}
 
 {% include img_smartphone.html name="settings_section_general_detail.png" %}
