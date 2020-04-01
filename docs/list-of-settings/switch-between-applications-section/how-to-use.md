@@ -17,7 +17,7 @@ permalink: /list-of-settings/switch-between-applications-section/how-to-use
 ---
 
 ## Description
-The list of selected another applications will be displayed on the Kitchen screen. After click on the application, the selected application will be opened, if it's installed in the device. If not, the Google Play with the detail screen of this application will be opened.
+The list of selected other applications will be displayed on the Kitchen screen. After clicking on the application, the selected application will be opened, if it's installed in the device. If not, Google Play with the detail screen of this application will be opened.
 
 ## Where to find the option
 {% include locate_option.html category_icon="open_in_browser" category_name="Switch between applications" option_icon="visibility" option_name="Enable switching" %}

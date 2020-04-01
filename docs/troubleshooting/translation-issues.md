@@ -26,4 +26,4 @@ It could happen, that during using the application, the user can find the additi
 If you wanted to have the Kitchen application translated into your native language, [follow this guide.]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/how-to-support-your-language.md %})
 
 ## Missing translated text
-The application by itself contains more than 2500 texts (like words, sentences, plural variants, etc.). Even that we are using development tools, that contain comparing missing text translations, it could happen, that we will lose some text translation. In such a case, [contact us](mailto:support@orderlord.com) and we will solve that as soon, as possible.
+The application by itself contains more than 1000 texts (like words, sentences, plural variants, etc.). Even that we are using development tools, that contain comparing missing text translations, it could happen, that we will lose some text translation. In such a case, [contact us](mailto:support@orderlord.com) and we will solve that as soon, as possible.

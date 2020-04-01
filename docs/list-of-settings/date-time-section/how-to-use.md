@@ -17,7 +17,7 @@ permalink: /list-of-settings/date-time-section/how-to-use
 ---
 
 ## Description
-The user could applied specificed date/time/date+time format for every time information in the application.
+The user could apply specific date/time/date+time format for every time information in the application.
 
 ## Where to find the option
 - Open the menu from the left side and find {% include icon.html name="settings" %} [**Settings**]({{site.baseurl}}{% link docs/list-of-settings/list-of-settings.md %}) section
@@ -26,14 +26,14 @@ The user could applied specificed date/time/date+time format for every time info
 - Search in the list of categories {% include icon.html name="event_note" %} **Date/time** category.
 
 ## How to use 
-- Click on one of the options ([followed by guide](#where-to-find-the-option)):
-	- {% include icon.html name="event_note" %} **Date + time - format** - formattting of the date and time depending on the format (like _{{ "now" | date: "%d.%m.%Y, %H:%M" }}_)
-	- {% include icon.html name="event_note" %} **Date + time - long format** - formattting of the date and time depending on the format (like _{{ "now" | date: "%d.%m.%Y, %H.%M.%S" }}_)
-	- {% include icon.html name="event_note" %} **Date - long format** - formattting of the date and time depending on the format (like _{{ "now" | date: "%d.%m.%Y" }}_)
-	- {% include icon.html name="event_note" %} **Date - short format** - formattting of the date and time depending on the format (like _{{ "now" | date: "%d.%m" }}_)
-	- {% include icon.html name="access_time" %} **Time - long format** - formattting of the time depending on the format (like _{{ "now" | date: "%H:%M:%S" }}_)
-	- {% include icon.html name="access_time" %} **Time - short format** - formattting of the time depending on the format (like _{{ "now" | date: "%H:%M" }}_)
-- The dialog with the list of formats will be displayed. Select the one, you want to use in the application. You could also use quick search functionality, which will search in the pattern's names or results.
+- Click on one of the options ([followed by the guide](#where-to-find-the-option)):
+	- {% include icon.html name="event_note" %} **Date + time - format** - formatting of the date and time depending on the format (like _{{ "now" | date: "%d.%m.%Y, %H:%M" }}_)
+	- {% include icon.html name="event_note" %} **Date + time - long format** - formatting of the date and time depending on the format (like _{{ "now" | date: "%d.%m.%Y, %H.%M.%S" }}_)
+	- {% include icon.html name="event_note" %} **Date - long format** - formatting of the date and time depending on the format (like _{{ "now" | date: "%d.%m.%Y" }}_)
+	- {% include icon.html name="event_note" %} **Date - short format** - formatting of the date and time depending on the format (like _{{ "now" | date: "%d.%m" }}_)
+	- {% include icon.html name="access_time" %} **Time - long format** - formatting of the time depending on the format (like _{{ "now" | date: "%H:%M:%S" }}_)
+	- {% include icon.html name="access_time" %} **Time - short format** - formatting of the time depending on the format (like _{{ "now" | date: "%H:%M" }}_)
+- The dialog with the list of formats will be displayed. Select the one, you want to use in the application. You could also use the quick search functionality, which will search in the pattern's names or results.
 - Select the pattern and click on the <span class="text-green-100">**SET**</span> button. The selected format will be applied everywhere in the application.
 
 {% include img_smartphone.html name="settings_date_time_section_how_to_use_1.png" %}

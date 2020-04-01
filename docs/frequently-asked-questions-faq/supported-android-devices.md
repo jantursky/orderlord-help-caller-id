@@ -14,7 +14,7 @@ permalink: /frequently-asked-questions-faq/supported-android-devices
 
 ## Required specifications
 - [**Android OS**](https://en.wikipedia.org/wiki/Android_(operating_system))
-- **Smartphone/Tablet device** - it's up to the user, if the user is using smaller or larger screen
+- **Smartphone/Tablet device** - it's up to the user if the user is using a smaller or larger screen
 - Android version [**4.1 (Android Jelly Bean)**](https://en.wikipedia.org/wiki/Android_version_history) and up 
 - **1 GB RAM and higher**
 - **1.5GHz CPU and higher**

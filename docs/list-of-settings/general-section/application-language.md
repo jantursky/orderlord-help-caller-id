@@ -40,9 +40,9 @@ The application will restart automatically when you change the language. If the 
 {% include img_smartphone.html name="settings_application_language_1.png" %}
 
 ## How to change the language
-Once the user click on the option, the new dialog will be displayed. The list of available translations will be displayed. Select one of them, the application will be restarted and the language will be changed.
+Once the user clicks on the option, the new dialog will be displayed. The list of available translations will be displayed. Select one of them, the application will be restarted and the language will be changed.
 
-<span class="text-red-200">It could occur, that even if you change the language in the list of options, the texts in the application will be default one (mostly _English language_). In this case, you **need to change device language also**. This is specific only for some vendors, and only one-time action.</span>
+<span class="text-red-200">It could occur, that even if you change the language in the list of options, the texts in the application will be default (mostly _English language_). In this case, you **need to change the device language also**. This is specific only for some vendors, and only one-time action.</span>
 
 {% include img_smartphone.html name="settings_application_language_2.png" %}
 

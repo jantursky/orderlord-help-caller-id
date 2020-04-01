@@ -17,17 +17,17 @@ permalink: /getting-started/how-to-use-the-caller-id-application
 ---
 
 ## How to use the Caller ID application
-- once the user will log into the Caller ID application, he don't need to do anything. The application is working automatically and once the phone will receive inocming call, the mechanism will try to send this **phone number (no contact details, name, surname, etc.)** to the DMS/POS system. The phone must to be connected to the network, even if it's {% include icon.html name="network_wifi" %} Wi-Fi or {% include icon.html name="network_cell" %} Mobile network. If the user is disconnected from the network, the green circle on the top of the screen will be changed to <span class="text-red-200">red blinking circle</span> notifying that the connection with network was lost. The user can keep the application running in the background ([needs to have solved battery optimization issue]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/what-is-the-battery-optimization.md %})). 
+- once the user will log into the Caller ID application, he doesn't need to do anything. The application is working automatically and once the phone will receive incoming call, the mechanism will try to send this **phone number (no contact details, name, surname, etc.)** to the DMS/POS system. The phone must be connected to the network, even if it's {% include icon.html name="network_wifi" %} Wi-Fi or {% include icon.html name="network_cell" %} Mobile network. If the user is disconnected from the network, the green circle on the top of the screen will be changed to <span class="text-red-200">a red blinking circle</span> notifying that the connection with the network was lost. The user can keep the application running in the background ([needs to have solved the battery optimization issue]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/what-is-the-battery-optimization.md %})). 
 
 {% include img_smartphone.html name="getting_started_how_to_use_the_caller_id_screen_1.png" %}
 
 ## Different states of the screen
-The screen is responding to the received call with changing the colors and texts dynamically. List of the states:
+The screen is responding to the received call by changing the colors and texts dynamically. List of the states:
 - {% include icon.html name="call" %} the application is listening for any received phone call
 
 {% include img_smartphone.html name="getting_started_how_to_use_the_caller_id_screen_1.png" %}
 
-- {% include icon.html name="phone_in_talk" %} the application is receiving incoming phone call
+- {% include icon.html name="phone_in_talk" %} the application is receiving the incoming phone call
 
 {% include img_smartphone.html name="getting_started_how_to_use_the_caller_id_screen_2.png" %}
 
@@ -43,11 +43,11 @@ The screen is responding to the received call with changing the colors and texts
 
 {% include img_smartphone.html name="getting_started_how_to_use_the_caller_id_screen_5.png" %}
 
-- {% include icon.html name="signal_wifi_off" %} the phone isn't connected to the network, and wasn't able to send the phone number to the server
+- {% include icon.html name="signal_wifi_off" %} the phone isn't connected to the network and wasn't able to send the phone number to the server
 
 {% include img_smartphone.html name="getting_started_how_to_use_the_caller_id_screen_6.png" %}
 
-- {% include icon.html name="signal_wifi_off" %} the issue with the phone or server occured and wasn't able to send the phone number to the server. The user can call back the user from the [Phone calls section]({{site.baseurl}}{% link docs/phone-calls-section/phone-calls-section.md %})).
+- {% include icon.html name="signal_wifi_off" %} the issue with the phone or server occurred and wasn't able to send the phone number to the server. The user can call back the user from the [Phone calls section]({{site.baseurl}}{% link docs/phone-calls-section/phone-calls-section.md %})).
 
 {% include img_smartphone.html name="getting_started_how_to_use_the_caller_id_screen_7.png" %}
 

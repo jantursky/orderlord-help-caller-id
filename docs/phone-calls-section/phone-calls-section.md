@@ -16,9 +16,9 @@ permalink: /phone-calls-section
 ---
 
 ## Description
-The preview of past incoming phone calls, that the application receives once the user is logged in. The user can call specific phone number.
+The preview of past incoming phone calls, that the application receives once the user is logged in. The user can call the specific phone number.
 
-<span class="text-red-200">The application hasn't permission and options to receive contact details of the received call (no name, surname, social information, etc.) and also **isn't** sending any contact details except the phone number information to the POS/DMS applications.</span>
+<span class="text-red-200">The application hasn't permission and options to receive contact details of the received call (no name, surname, social information, etc.) and also **isn't** sending any contact details except the phone number information to the **POS/DMS** applications.</span>
 
 ## Table of contents
 - [How to use]({{site.baseurl}}{% link docs/phone-calls-section/how-to-use.md %})

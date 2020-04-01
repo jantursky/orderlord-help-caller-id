@@ -36,7 +36,7 @@ Once the problem of any type will occur, and the user isn't able to solve the pr
 	- pressing two buttons on your Android device; normally the volume down and power button. 
 	- on other devices, you might need to use the **home button + power button** combination.
 	- either way, press the two buttons simultaneously and hold for a second.
-When the right button combinations is pressed, your device’s screen will flash, usually accompanied by a camera shutter sound. Sometimes, a pop-up message or notification alert appears, suggesting that the screenshot has been made. Once the screenshot was taken, you could add it to the report of the problem.
+When the right button combination is pressed, your device’s screen will flash, usually accompanied by a camera shutter sound. Sometimes, a pop-up message or notification alert appears, suggesting that the screenshot has been made. Once the screenshot was taken, you could add it to the report of the problem.
 
 {% include img_smartphone.html name="troubleshooting_report_your_problem_4.png" %}
 

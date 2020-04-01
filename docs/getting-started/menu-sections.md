@@ -23,9 +23,9 @@ To display the menu with all available sections, the user could do that 2. ways:
 
 ## List of options
 
-1. {% include icon.html name="format_list_bulleted" %} [**Deliveries**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-caller-id-application.md %}) - the main screen for the user, displaying the current status of incoming calls. The user has the option to call back the user if he hadn't chance to answer for the call.
+1. {% include icon.html name="format_list_bulleted" %} [**Deliveries**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-caller-id-application.md %}) - the main screen for the user, displaying the current status of incoming calls. The user has the option to call back the user if he hadn't the chance to answer for the call.
 1. {% include icon.html name="call" %} [**Phone calls**]({{site.baseurl}}{% link docs/phone-calls-section/phone-calls-section.md %}) - the list of last incoming phone calls that were received once the user was logged into the application. The number of calls is limited
-1. {% include icon.html name="timeline" %} [**Timeline**]({{site.baseurl}}{% link docs/timeline-section/timeline-section.md %}) - the list of last actions that the user performs during working with the Caller ID application sorted by the date and time. The user can also filter these steps or use quick filtering feature.
+1. {% include icon.html name="timeline" %} [**Timeline**]({{site.baseurl}}{% link docs/timeline-section/timeline-section.md %}) - the list of last actions that the user performs during working with the Caller ID application sorted by the date and time. The user can also filter these steps or use a quick filtering feature.
 1. {% include icon.html name="settings" %} [**Settings**]({{site.baseurl}}{% link docs/list-of-settings/list-of-settings.md %}) - list of settings, mostly for the functionality purposes
 1. {% include icon.html name="power_settings_new" %} [**Logout**]({{site.baseurl}}{% link docs/getting-started/how-to-logout.md %}) - the current user will be logged
 

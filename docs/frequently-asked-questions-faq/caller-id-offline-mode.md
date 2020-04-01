@@ -13,8 +13,7 @@ permalink: /frequently-asked-questions-faq/caller-id-offline-mode
 ---
 
 ## Basic principle
-When the internet is turned off, the device is not able to connect to the network, or **Wi-Fi module/Mobile data** is not working, the system is able to work in a **limited state**. The deliveries and orders, which already came to the device till that break-down moment, could be started, arrived to the customer, finished the order, this information is stored locally and when the internet connection will be restored, it started to send one by one. 
-
+When the internet is turned off, the device is not able to connect to the network, or **Wi-Fi module/Mobile data** is not working, the system is able to work in a **limited state**.
 
 
 | FUNCTIONALITY									| <span class="text-green-100">ENABLED</span>  | <span class="text-red-100">DISABLED</span> |

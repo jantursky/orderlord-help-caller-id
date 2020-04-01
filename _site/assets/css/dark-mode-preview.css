@@ -652,6 +652,14 @@ body {
       padding-left: 250px;
       padding-right: 250px; } }
 
+.custom_tablet {
+  padding-left: 0px;
+  padding-right: 0px; }
+  @media (min-width: 81.25rem) {
+    .custom_tablet {
+      padding-left: 30px;
+      padding-right: 30px; } }
+
 .page-content {
   line-height: 1.5; }
   .page-content a {

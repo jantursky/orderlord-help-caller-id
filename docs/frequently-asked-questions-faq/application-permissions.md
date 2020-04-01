@@ -23,8 +23,8 @@ For the purposes of 100% usage of the app, the kitchen application requires thes
 - **Read/Write external storage** - this permission is used for local backup of the settings, which are set up in the settings section for the user
 - **Wake lock** - for the purpose of long-running background services and the setting "Keep the screen on"
 - **Call phone** - option to initiate calling with the customer
-- **Read/Write call log, Read phone state** - once the phone will receive the call, the application needs to determine this case and notify about that the POS/DMS system. And for some specific vendors it's needed to have access also to "Read phone state" permission
-- **Telephony module** - the user needs to receive incoming calls and contact the customer by call
+- **Read/Write call log, Read phone state** - once the phone will receive the call, the application needs to determine this case and notify about that the POS/DMS system. And for some specific vendors, it's needed to have access also to "Read phone state" permission
+- **Telephony module** - the user needs to receive incoming calls and contact the customer by calling
 
 
 ## First installation
